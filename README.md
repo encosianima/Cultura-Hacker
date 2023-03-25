@@ -12,7 +12,7 @@ description: Mi experiencia y relación con la Cultura Hacker
 
 Aquí relataré acerca de mi experiencia en el ámbito de la Cultura Hacker, aquel movimiento que se ha generado alrededor de la Filosofía del Free-software abarcando bastante más de la programación en sentido estricto.
 
-En el 1998 en Florencia, mi ciudad natal, tenía lugar el [Hackit](http://www.ecn.org/hackit98/), prototipo de aquel tipo de eventos que se conocen como "Hackmeeting"... pero yo no me enteré, de hecho hasta el 2000 ni tenía un ordenador personal. ¡Al adquirirlo, también contraté ADSL de un provider revolucionario que ofrecía un servicio relativamente barato "flat" desde las 6 de la tarde a las 8 de la mañana y pude tener una línea telefónica navegando a la vez (los primeros modems ocupaban totalmente la línea telefónica) y con una velocidad tal que pude bajarme OK Computer en una sola semana!&#x20;
+En el 1998 en Florencia, mi ciudad natal, tenía lugar el [Hackit](http://www.ecn.org/hackit98/), prototipo de aquel tipo de eventos que se conocen como "Hackmeeting"... pero yo no me enteré, de hecho hasta el 2000 ni tenía un ordenador personal.  Al adquirirlo, también contraté ADSL de un provider revolucionario que ofrecía un servicio relativamente barato "flat" desde las 6 de la tarde a las 8 de la mañana y pude tener una línea telefónica navegando a la vez, cuando normalmente lo navegabas o utilizabas la línea telefónica. ¡La velocidad era tal que pude bajarme \[OK Compute] en menos de una semana!&#x20;
 
 Mientras que esperaba los downloads, por primera vez me plantee el tema del derecho a copia digital a escala global.
 
